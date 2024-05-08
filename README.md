@@ -1,1 +1,2 @@
-# e
+## Pareto Charts.
+Data was obtained from Causes of Death - Our World in Data":https://www.kaggle.com/datasets/ivanc..Pareto Charts! This is also sometimes referred to as the 80/20 rule.used to find help identify the vital few factors that contribute to the majority of the impact. By focusing on these critical areas, organizations can allocate resources effectively.Little changes was done on orientation using Pivot function.dashboard was created.- https://public.tableau.com/app/profile/smita.bhat7551/viz/ParetoChartCausesofDeath_17147447312490/Sheet1.
